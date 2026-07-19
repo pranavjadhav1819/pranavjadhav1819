@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Pranav Jadhav
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Pranav Jadhav
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast;Building+Projects+That+Matter+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast;Building+Projects+That+Matter+🚀" />
 </div>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Pranav%20Jadhav&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
@@ -26,7 +26,7 @@ Goal:
 ---
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/pranav-jadhav-31006b373/">
+<a href="https://www.linkedin.com/in/pranav-jadhav-31006b373?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:jadhav.pranav.1819@email.com">
@@ -75,7 +75,7 @@ Goal:
 🥇 Engineering Project Development
 ---
 # 📈 Coding Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavjadhav1819&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
 ---
 # 💡 Developer Quote
 <div align="center">
