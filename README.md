@@ -1,77 +1,57 @@
-# ⚡ PRANAV JADHAV
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Pranav Jadhav
+
+# <div align="center">⚡ <span style="color:#7DF9FF">Pranav Jadhav</span> ⚡</div>
+<div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PRANAV%20JADHAV&fontColor=ffffff&fontSize=52&animation=fadeIn&color=0:00F5FF,50:7B2FF7,100:111827&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PRANAV%20JADHAV&fontColor=ffffff&fontSize=52&animation=fadeIn&color=0:00F5FF,50:7B2FF7,100:111827"/>
 </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast;Building+Projects+That+Matter🚀" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Builder;Building+Projects+That+Matter+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Full+Stack+Developer;AI+%26+ML+Explorer;Open+Source+Enthusiast;Building+Projects+That+Matter+🚀"/>
 </p>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00E5FF?style=for-the-badge&logo=rocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20WEB%20%7C%20DATA-7B2FF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-ENABLED-00F5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERPUNK-ONLINE-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00E5FF?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Pranav%20Jadhav&fontAlign=50&fontAlignY=40&color=gradient&animation=fadeIn"/>
 </p>
 
 ---
-
-## 👨‍💻 `whoami`
+@@ -20,73 +16,152 @@
 
 ```yaml
 Name: Pranav Jadhav
+
 Role: Computer Engineering Student
-University: Savitribai Phule Pune University (SPPU)
+
 Location: Pune, India
+University: SPPU
 
-Currently:
-  - Building full-stack applications
-  - Exploring Artificial Intelligence & Machine Learning
-  - Working with data-driven systems
-  - Exploring Open Source
-  - Turning ideas into usable products
+University: Savitribai Phule Pune University (SPPU)
 
-Mission:
-  "Build technology that solves real problems."
+Interests:
+- Web Development
+- Artificial Intelligence
+- Machine Learning
+- IoT
+- Embedded Systems
 
 Goal:
-  - Software Engineer
-  - Full Stack Developer
-  - AI/ML Engineer
-  - Build meaningful products
+- Software Engineer
+- Full Stack Developer
+- Top Internship
 ```
-
----
-
-# 🧠 About Me
-
-I'm a **Computer Engineering student** interested in building modern software, intelligent systems and useful digital products.
-
-My interests sit at the intersection of:
-
-```text
-        ┌───────────────────────────────────┐
-        │          PRANAV JADHAV             │
-        ├───────────────────────────────────┤
-        │                                   │
-        │   🌐 Web Development              │
-        │   🤖 Artificial Intelligence      │
-        │   🧠 Machine Learning             │
-        │   📊 Data & Knowledge Graphs      │
-        │   ⚙️ Backend Engineering          │
-        │   🔐 Cyber Security               │
-        │   🌱 Open Source                  │
-        │                                   │
-        └───────────────────────────────────┘
-```
-
-> **I don't just want to learn technology — I want to build with it.**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+<a href="https://www.linkedin.com/in/pranav-jadhav-31006b373?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:jadhav.pranav.1819@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <a href="https://www.linkedin.com/in/pranav-jadhav-31006b373">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -81,332 +61,138 @@ My interests sit at the intersection of:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/pranavjadhav1819">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
+# 💎 Tech Stack
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,mongodb,mysql,git,github,vscode"/></p>
 ---
 
-# ⚡ Tech Stack
+# 🚀 Projects
+| Project | Description |
+|---|---|
+| 🌐 Portfolio Website | Modern animated portfolio |
+| 🎓 Student Management System | Python desktop application |
+| 🤖 AI Assistant | AI-powered chatbot |
+| 📚 Engineering Notes Hub | Student resource platform |
+# 💻 Tech Stack
 
-### Languages
+## Languages
 
+# 📊 GitHub Dashboard
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavjadhav1819&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjadhav1819&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 </p>
 
-### Frontend
+## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="https://streak-stats.demolab.com?user=pranavjadhav1819&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend & Database
+## Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavjadhav1819&theme=react-dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### AI / Data
+## Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-```text
-AI / ML
-├── Machine Learning
-├── Data Processing
-├── AI Applications
-├── Retrieval Systems
-└── Knowledge Graphs
-```
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavjadhav1819&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🕸️ IPGK — India Public Knowledge Graph
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Modern Animated Portfolio |
+| 🎓 Student Management System | Python Desktop Application |
+| 🤖 AI Assistant | AI-powered Chatbot |
+| 📚 Engineering Notes Hub | Student Resource Platform |
 
-> **India Public Knowledge Graph**
+---
 
-A long-term vision for creating an interconnected public information infrastructure for India.
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavjadhav1819&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjadhav1819&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Current Focus
 
 ```text
-India
- │
- ├── Education
- │    ├── Colleges
- │    ├── Universities
- │    ├── Courses
- │    ├── Scholarships
- │    └── Exams
- │
- ├── Government
- │    ├── Schemes
- │    ├── Services
- │    └── Benefits
- │
- ├── Healthcare
- │
- ├── Jobs
- │
- └── Businesses
+🌱 Learning Advanced React
+🌱 Exploring AI/ML
+
+🌱 Exploring AI & Machine Learning
+
+🌱 Building Full Stack Projects
+
+🌱 Open Source Contributions
 ```
 
-The goal is not simply to build another information website.
-
-**The goal is to build an open data infrastructure layer for India.**
-
-🔗 Repository:
-https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph
-
+# 🏆 Achievements
+- 🥇 Python Programming Certification
+- 🥇 Web Development Certification
+- 🥇 AI & ML Certification
 ---
 
-## 📚 GCOEARA NOTES
+# 🏆 Certifications
 
-A student-focused platform for organizing and accessing engineering study resources.
+- 🥇 Python Programming
+- 🥇 Web Development
+- 🥇 AI & Machine Learning
+- 🥇 Engineering Project Development
 
-**Stack:** JavaScript
-
-🔗 https://github.com/pranavjadhav1819/GCOEARA_NOTES
-
+> "The best way to predict the future is to build it."
 ---
 
-## 💰 SplitExpenses
-
-A modern expense-splitting web application designed to make group expense management simple.
-
-**Stack:** HTML / CSS / JavaScript
-
-🔗 https://github.com/pranavjadhav1819/Splitexpenses
-
----
-
-## 📅 Day Plan
-
-A simple web application for planning and organizing daily activities.
-
-**Stack:** HTML
-
-🔗 https://github.com/pranavjadhav1819/day-plan
-
----
-
-## 📄 MY CV
-
-Personal CV / resume project.
-
-**Stack:** CSS
-
-🔗 https://github.com/pranavjadhav1819/MY_CV
-
----
-
-## 🤖 Yojana Sahayak
-
-A voice-first assistant concept for discovering Indian government welfare schemes using:
-
-```text
-Voice
-  ↓
-Speech Recognition
-  ↓
-Scheme Retrieval
-  ↓
-Eligibility Rules
-  ↓
-Relevant Government Schemes
-```
-
-Designed around **vernacular access**, especially Hindi and Marathi.
-
-**Stack:** React + Vite + Express + PostgreSQL + pgvector
-
----
-
-# 📊 GitHub Dashboard
+# 📈 Contribution Graph
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pranavjadhav1819&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjadhav1819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00F5FF,100:7B2FF7"/>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pranavjadhav1819&theme=tokyonight&hide_border=true&border_radius=12"/>
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavjadhav1819&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranavjadhav1819/pranavjadhav1819/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranavjadhav1819/pranavjadhav1819/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavjadhav1819&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-</p>
-
----
-
-# 📌 Repository Radar
-
-<p align="center">
-
-<a href="https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=IPGK-India-Public-Knowledge-Graph&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/pranavjadhav1819/GCOEARA_NOTES">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=GCOEARA_NOTES&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/pranavjadhav1819/Splitexpenses">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=Splitexpenses&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/pranavjadhav1819/day-plan">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=day-plan&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavjadhav1819&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🧭 Current Focus
+# 📊 Profile Summary
 
-```text
-┌────────────────────────────────────────────────────┐
-│                  CURRENT MISSION                    │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  🧠 Advanced React                                │
-│  🤖 Artificial Intelligence                       │
-│  📊 Data & Knowledge Graphs                       │
-│  🌐 Full Stack Development                        │
-│  🔧 Backend Engineering                           │
-│  🚀 Real-world Projects                           │
-│  🌱 Open Source                                   │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavjadhav1819&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 🎯 2026 Developer Roadmap
-
-```text
-                    2026
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-     FULL STACK       AI           DATA
-        │             │             │
-     React          ML/AI      Knowledge Graph
-     Node.js        LLMs       PostgreSQL
-     APIs           RAG        Data Pipelines
-        │             │             │
-        └─────────────┼─────────────┘
-                      │
-                      ▼
-               REAL PROJECTS
-                      │
-                      ▼
-               OPEN SOURCE
-                      │
-                      ▼
-              SOFTWARE ENGINEER
-```
-
----
-
-# 🏅 Certifications & Learning
-
-* 🐍 Python Programming
-* 🌐 Web Development
-* 🤖 AI & Machine Learning
-* 📊 Data Analytics
-* 🔐 Cyber Security
-* ⚙️ Engineering Project Development
-
----
-
-# 💡 Developer Philosophy
+# 💡 Developer Quote
 
 <div align="center">
 
-### `"The best way to predict the future is to build it."`
+> **"The best way to predict the future is to build it."**
 
 </div>
 
 ---
 
-# 👀 Profile Visitors
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranavjadhav1819&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
-</p>
 
----
-
-# ⚡ Final Status
-
-```text
-╔══════════════════════════════════════════════╗
-║                                              ║
-║   PRANAV JADHAV                              ║
-║                                              ║
-║   STATUS       : BUILDING                    ║
-║   MODE         : FULL STACK + AI             ║
-║   MINDSET      : LEARN → BUILD → SHIP       ║
-║   MISSION      : SOLVE REAL PROBLEMS         ║
-║                                              ║
-║   ████████████████████████░░░░  80%          ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7B68EE&height=120&section=footer"/>
 
 ### ⭐ Thanks for visiting my profile!
-
-**Let's build something meaningful. 🚀**
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,50:7B2FF7,100:111827"/>
-</p>
