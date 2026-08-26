@@ -50,16 +50,16 @@ My interests sit at the intersection of:
 
 ```text
         ┌───────────────────────────────────┐
-        │          PRANAV JADHAV             │
+        │          PRANAV JADHAV            │
         ├───────────────────────────────────┤
         │                                   │
-        │   🌐 Web Development              │
-        │   🤖 Artificial Intelligence      │
-        │   🧠 Machine Learning             │
-        │   📊 Data & Knowledge Graphs      │
-        │   ⚙️ Backend Engineering          │
-        │   🔐 Cyber Security               │
-        │   🌱 Open Source                  │
+        │   🌐 Web Development             │
+        │   🤖 Artificial Intelligence     │
+        │   🧠 Machine Learning            │
+        │   📊 Data & Knowledge Graphs     │
+        │   ⚙️ Backend Engineering         │
+        │   🔐 Cyber Security              │
+        │   🌱 Open Source                 │
         │                                   │
         └───────────────────────────────────┘
 ```
@@ -297,7 +297,7 @@ Designed around **vernacular access**, especially Hindi and Marathi.
 
 ```text
 ┌────────────────────────────────────────────────────┐
-│                  CURRENT MISSION                    │
+│                  CURRENT MISSION                   │
 ├────────────────────────────────────────────────────┤
 │                                                    │
 │  🧠 Advanced React                                │
@@ -378,7 +378,7 @@ Designed around **vernacular access**, especially Hindi and Marathi.
 ║                                              ║
 ║   STATUS       : BUILDING                    ║
 ║   MODE         : FULL STACK + AI             ║
-║   MINDSET      : LEARN → BUILD → SHIP       ║
+║   MINDSET      : LEARN → BUILD → SHIP        ║
 ║   MISSION      : SOLVE REAL PROBLEMS         ║
 ║                                              ║
 ║   ████████████████████████░░░░  80%          ║
