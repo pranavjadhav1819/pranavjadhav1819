@@ -167,7 +167,7 @@ The goal is not simply to build another information website.
 **The goal is to build an open data infrastructure layer for India.**
 
 🔗 Repository:
-https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph
+https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph-
 
 ---
 
@@ -256,7 +256,7 @@ Designed around **vernacular access**, especially Hindi and Marathi.
 ---
 ## 🚀 Featured Repositories
 <p align="center">
-  <a href="https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph">
+  <a href="https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph-">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=pranavjadhav1819&repo=IPGK-India-Public-Knowledge-Graph&theme=tokyonight&hide_border=true" width="49%" />
   </a>
   <a href="https://github.com/pranavjadhav1819/GCOEARA_NOTES">
