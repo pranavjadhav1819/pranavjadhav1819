@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 `whoami`
+## 👨‍💻 `who_am_i`
 
 ```yaml
 Name: Pranav Jadhav
