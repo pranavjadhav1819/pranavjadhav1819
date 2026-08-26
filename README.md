@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/OPEN%20SOURCE-ENABLED-00F5FF?style=for-the-badge"/>
 </p>
 
----
-
-## 👨‍💻 `who_am_i`
+👨‍💻 `who_am_i`
 
 ```yaml
 Name: Pranav Jadhav
@@ -231,30 +229,29 @@ Designed around **vernacular access**, especially Hindi and Marathi.
 
 **Stack:** React + Vite + Express + PostgreSQL + pgvector
 
----
 
-## 📊 GitHub Dashboard
+ 📊 GitHub Dashboard
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=pranavjadhav1819&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranavjadhav1819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 </p>
----
-## 🔥 GitHub Streak
+
+ 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pranavjadhav1819&theme=tokyonight&hide_border=true" />
 </p>
----
-## 📈 Contribution Activity
+
+ 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavjadhav1819&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
----
-## 🏆 GitHub Achievements
+
+ 🏆 GitHub Achievements
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=pranavjadhav1819&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
 </p>
----
-## 🚀 Featured Repositories
+
+🚀 Featured Repositories
 <p align="center">
   <a href="https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph-">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=pranavjadhav1819&repo=IPGK-India-Public-Knowledge-Graph-&theme=tokyonight&hide_border=true" width="49%" />
@@ -271,7 +268,7 @@ Designed around **vernacular access**, especially Hindi and Marathi.
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=pranavjadhav1819&repo=day-plan&theme=tokyonight&hide_border=true" width="49%" />
   </a>
 </p>
----
+
 
 ## 🐍 Contribution Snake
 
