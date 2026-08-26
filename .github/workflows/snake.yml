@@ -18,14 +18,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate dark contribution snake
+      - name: Generate Dark Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: pranavjadhav1819
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish dark snake
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
