@@ -277,53 +277,6 @@ Designed around **vernacular access**, especially Hindi and Marathi.
 
 ---
 
-# 🧭 Current Focus
-
-```text
-┌────────────────────────────────────────────────────┐
-│                  CURRENT MISSION                   │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  🧠 Advanced React                                │
-│  🤖 Artificial Intelligence                       │
-│  📊 Data & Knowledge Graphs                       │
-│  🌐 Full Stack Development                        │
-│  🔧 Backend Engineering                           │
-│  🚀 Real-world Projects                           │
-│  🌱 Open Source                                   │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
-# 🎯 2026 Developer Roadmap
-
-```text
-                    2026
-                      │
-        ┌─────────────┼─────────────┐
-        │             │             │
-     FULL STACK       AI           DATA
-        │             │             │
-     React          ML/AI      Knowledge Graph
-     Node.js        LLMs       PostgreSQL
-     APIs           RAG        Data Pipelines
-        │             │             │
-        └─────────────┼─────────────┘
-                      │
-                      ▼
-               REAL PROJECTS
-                      │
-                      ▼
-               OPEN SOURCE
-                      │
-                      ▼
-              SOFTWARE ENGINEER
-```
-
----
-
 # 🏅 Certifications & Learning
 
 * 🐍 Python Programming
