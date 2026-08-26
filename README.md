@@ -68,22 +68,6 @@ My interests sit at the intersection of:
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pranav-jadhav-31006b373">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jadhav.pranav.1819@email.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/pranavjadhav1819">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -385,6 +369,25 @@ Designed around **vernacular access**, especially Hindi and Marathi.
 ║                                              ║
 ╚══════════════════════════════════════════════╝
 ```
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pranav-jadhav-31006b373">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jadhav.pranav.1819@email.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pranavjadhav1819">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://pranavjadhav.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+</a>
 
 <p align="center">
 
