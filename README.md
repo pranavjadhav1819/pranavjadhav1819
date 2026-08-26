@@ -235,39 +235,60 @@ Designed around **vernacular access**, especially Hindi and Marathi.
 
 ## 📊 GitHub Dashboard
 
-![Pranav Jadhav GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavjadhav1819&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Pranav Jadhav Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjadhav1819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavjadhav1819&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavjadhav1819&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+</p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-![Pranav Jadhav GitHub Streak](https://streak-stats.demolab.com/?user=pranavjadhav1819&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pranavjadhav1819&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-![Pranav Jadhav Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=pranavjadhav1819&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavjadhav1819&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-![Pranav Jadhav GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pranavjadhav1819&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavjadhav1819&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" />
+</p>
 
 ---
 
 ## 🚀 Featured Repositories
 
-![IPGK](https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=IPGK-India-Public-Knowledge-Graph&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://github.com/pranavjadhav1819/IPGK-India-Public-Knowledge-Graph">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=IPGK-India-Public-Knowledge-Graph&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
 
-![GCOEARA Notes](https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=GCOEARA_NOTES&theme=tokyonight&hide_border=true)
+  <a href="https://github.com/pranavjadhav1819/GCOEARA_NOTES">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=GCOEARA_NOTES&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
+</p>
 
-![Split Expenses](https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=Splitexpenses&theme=tokyonight&hide_border=true)
+<p align="center">
+  <a href="https://github.com/pranavjadhav1819/Splitexpenses">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=Splitexpenses&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
 
-![Day Plan](https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=day-plan&theme=tokyonight&hide_border=true)
+  <a href="https://github.com/pranavjadhav1819/day-plan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=day-plan&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
+</p>
+
+---
 
 ---
 
