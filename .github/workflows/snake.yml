@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Dark Contribution Snake
 
 on:
   schedule:
@@ -18,15 +18,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate dark contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: pranavjadhav1819
           outputs: |
-            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake
+      - name: Publish dark snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
