@@ -42,28 +42,6 @@ Goal:
 
 ---
 
-# 🧠 About Me
-
-I'm a **Computer Engineering student** interested in building modern software, intelligent systems and useful digital products.
-
-My interests sit at the intersection of:
-
-```text
-        ┌───────────────────────────────────┐
-        │          PRANAV JADHAV            │
-        ├───────────────────────────────────┤
-        │                                   │
-        │   🌐 Web Development             │
-        │   🤖 Artificial Intelligence     │
-        │   🧠 Machine Learning            │
-        │   📊 Data & Knowledge Graphs     │
-        │   ⚙️ Backend Engineering         │
-        │   🔐 Cyber Security              │
-        │   🌱 Open Source                 │
-        │                                   │
-        └───────────────────────────────────┘
-```
-
 > **I don't just want to learn technology — I want to build with it.**
 
 ---
