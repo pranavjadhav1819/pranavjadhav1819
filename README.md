@@ -269,14 +269,16 @@ Designed around **vernacular access**, especially Hindi and Marathi.
 
 ![Day Plan](https://github-readme-stats.vercel.app/api/pin/?username=pranavjadhav1819&repo=day-plan&theme=tokyonight&hide_border=true)
 
-# 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranavjadhav1819/pranavjadhav1819/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranavjadhav1819/pranavjadhav1819/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark"/>
+  <img
+    src="https://raw.githubusercontent.com/pranavjadhav1819/pranavjadhav1819/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
