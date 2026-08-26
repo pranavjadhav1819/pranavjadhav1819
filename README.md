@@ -19,6 +19,7 @@
 ```yaml
 Name: Pranav Jadhav
 Role: Computer Engineering Student
+College: Government College Of Engineering And Research Avasari Khurd PUNE(GCOEARA)
 University: Savitribai Phule Pune University (SPPU)
 Location: Pune, India
 
