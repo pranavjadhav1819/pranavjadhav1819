@@ -1,6 +1,6 @@
 # ⚡ PRANAV JADHAV
 
-<p align="center">
+<p align="center"
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=PRANAV%20JADHAV&fontColor=ffffff&fontSize=52&animation=fadeIn&color=0:00F5FF,50:7B2FF7,100:111827&fontAlignY=40"/>
 </p>
 
