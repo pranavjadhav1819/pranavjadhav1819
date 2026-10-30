@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00E5FF?style=for-the-badge&logo=rocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20WEB%20%7C%20DATA-7B2FF7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-ENABLED-00F5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-00E5FF?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20WEB%20%7C%20DATA-7B2FF7?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-ENABLED-00F5FF?style=for-the-badge" alt="Open source"/>
 </p>
 
 👨‍💻 `who_am_i`
